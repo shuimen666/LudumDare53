@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2225629324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 888d258f09a64e5c2017dbec9a09f641
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b73c048780a8140855a95dcfecce3e3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleResources/Fbx/Box/box_material.mat
+- Assets/BundleResources/Fbx/Car/taxi.fbx
+- Assets/BundleResources/Fbx/Box/paper box diffuse map.png
+- Assets/BundleResources/Fbx/Car/truck.fbx
+- Assets/BundleResources/Fbx/Ground/Road.mat
+- Assets/BundleResources/Fbx/Box/paper box normal map.png
+- Assets/BundleResources/Fbx/Car/van.fbx
+- Assets/BundleResources/Fbx/Box/paper box height map.png
+- Assets/BundleResources/Fbx/Car/race.fbx
+- Assets/BundleResources/Fbx/Ground/Ground.mat
+- Assets/BundleResources/Fbx/Car/sedan.fbx
+- Assets/BundleResources/Fbx/Car/police.fbx
+- Assets/BundleResources/Fbx/Ground/road.png
+Dependencies: []

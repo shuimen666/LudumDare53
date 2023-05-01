@@ -1,0 +1,19 @@
+id,desc,chs,eng
+1,you_lose,你输了！,You Lose!
+2,restart,重新开始,Restart
+3,quit,退出,Quit
+4,s_1,左拐,Turn left
+5,s_2,右拐,Turn right
+6,s_3,左拐2,Turn left 2
+7,s_4,右拐2,Turn right 2
+8,s_5,减速2,Speed Down 2
+9,s_6,加速2,Speed Up 2
+10,next,下一步,Next
+11,mid_note,你按时送好了快递！获得2个随机动作！,You finished the delivery on time! Gain 2 actions!
+12,real_win,你赢了！感谢游玩！LD53,You Win! Thank for playing! LD53
+13,guide1,在规定的时间内拾取地上的快递，并加速抵达目的地,Finish the delivery on time. Pick up the box on the road.
+14,guide2,撞车会丢失所有快递，需要足够多的快递才算完成,You will lose all boxes when crashing. Finish the level with enough boxes.
+15,guide3,QWER来控制车辆，并不断构建你的控制链条,QWER to control the car. Build your control chain by new actions.
+16,s_7,释放导弹,Release a missile
+17,language,English,中文
+18,guide4,关卡结束后可以获得新的动作，点击动作来更换到对应键位,Gain new actions after the level. Click it to change into action chain.

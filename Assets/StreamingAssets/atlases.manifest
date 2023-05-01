@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3264260343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5f26f24b7b530778dd8e840c2d9c514
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e8d5bddf5273bf64a4d9b329e237667
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: UISpriteData
+Assets:
+- Assets/BundleResources/Atlases/CommonUI/images/s_speedup.png
+- Assets/BundleResources/Atlases/CommonUI/CommonUI.txt
+- Assets/BundleResources/Atlases/CommonUI/images/s_left2.png
+- Assets/BundleResources/Atlases/CommonUI/images/s_speeddown.png
+- Assets/BundleResources/Atlases/CommonUI/images/ui_blank_white.png
+- Assets/BundleResources/Atlases/CommonUI/images/s_right2.png
+- Assets/BundleResources/Atlases/CommonUI/CommonUI.png
+- Assets/BundleResources/Atlases/CommonUI/CommonUI.mat
+- Assets/BundleResources/Atlases/CommonUI/images/s_right.png
+- Assets/BundleResources/Atlases/CommonUI/images/s_missile.png
+- Assets/BundleResources/Atlases/CommonUI/images/s_left.png
+- Assets/BundleResources/Atlases/CommonUI/images/ui_blank_orange.png
+- Assets/BundleResources/Atlases/CommonUI/images/ui_blank_blue.png
+- Assets/BundleResources/Atlases/CommonUI/CommonUI.prefab
+Dependencies: []

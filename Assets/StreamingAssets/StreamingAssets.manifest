@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2324170874
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlases
+      Dependencies: {}
+    Info_1:
+      Name: fbx
+      Dependencies: {}
+    Info_2:
+      Name: fonts
+      Dependencies: {}
+    Info_3:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: fbx
+    Info_4:
+      Name: scenes
+      Dependencies:
+        Dependency_0: atlases
+        Dependency_1: fbx
+        Dependency_2: fonts
+        Dependency_3: prefabs
+    Info_5:
+      Name: tables
+      Dependencies: {}

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3581533196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d04dab7224c277ce8c5880fcb23d961
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06580debf89f6ae64936c9fbfa304700
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleResources/Prefabs/Box/box.prefab
+- Assets/BundleResources/Prefabs/Car/van.prefab
+- Assets/BundleResources/Prefabs/Car/taxi.prefab
+- Assets/BundleResources/Prefabs/Car/sedan.prefab
+- Assets/BundleResources/Prefabs/Box/missile .prefab
+- Assets/BundleResources/Prefabs/Car/police.prefab
+- Assets/BundleResources/Prefabs/Car/truck.prefab
+- Assets/BundleResources/Prefabs/Car/race.prefab
+Dependencies:
+- D:/UnityWorks/LudumDare53/Assets/StreamingAssets/fbx
